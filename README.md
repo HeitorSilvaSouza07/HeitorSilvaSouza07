@@ -1,7 +1,7 @@
 ## 👨‍💻 Heitor Silva
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FETEC**  
-💡 Focado em lógica de programação e Programação Orientada a Objetos  
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**  
+💡 Focado em programação e Desenvolvimento  
 📍 Brasil
 
 ---
