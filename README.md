@@ -1,7 +1,7 @@
 ## 👨‍💻 Heitor Silva
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**  
-💡 Focado em estudo de analise, back-end e arquitetura de dados 
+💡 Focado em estudo de analise, back-end e arquitetura de dados e sistemas
 
 📍 Brasil
 
