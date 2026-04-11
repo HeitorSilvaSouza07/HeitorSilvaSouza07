@@ -1,19 +1,25 @@
 ## 👨‍💻 Heitor Silva
-
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**  
-💡 Focado em estudo de analise, back-end e arquitetura de dados e sistemas
-
-📍 Brasil
+🎓 Studying **Multiplatform Software Development (DSM)** at **FATEC**
+💼 IT Intern — working with back-end, data and web applications
+💡 Focused on systems analysis, data architecture and full-stack development
+📍 Brazil
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tech Stack
+
+#### ⚡ Main stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,sqlserver" />
+</p>
+
+#### 🔧 Tools & other knowledge
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,postman,figma,vscode" />
 </p>
 
 ---
 
-### 📂 Sobre este perfil
-Repositórios de estudo, projetos acadêmicos e experimentos em desenvolvimento.  
-Sempre aberto a feedbacks e colaboração 🤝
+### 📂 About this profile
+Study repositories, academic projects and development experiments.
+Always open to feedback and collaboration 🤝
