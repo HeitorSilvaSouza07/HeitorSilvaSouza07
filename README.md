@@ -10,7 +10,7 @@
 
 #### ⚡ Main stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,tailwind,mysql" />
 </p>
 
 #### 🔧 Tools & other knowledge
