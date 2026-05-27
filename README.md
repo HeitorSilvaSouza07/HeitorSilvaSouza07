@@ -7,7 +7,7 @@
 🛠️ Tech Stack
 ⚡ Main stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mysql" />
 </p>
 🔧 Tools & other knowledge
 <p>
