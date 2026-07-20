@@ -7,11 +7,11 @@
 🛠️ Tech Stack
 ⚡ Main stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mysql,postgresql,python,fastapi" />
 </p>
 🔧 Tools & other knowledge
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,figma,vscode" />
 </p>
 
 📂 About this profile
