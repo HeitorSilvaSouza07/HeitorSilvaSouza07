@@ -1,8 +1,8 @@
-👨‍💻 Heitor Silva
-🎓 Studying Multiplatform Software Development (DSM) at FATEC
-💼 IT Intern — working with back-end, data and web applications
-💡 Focused on systems analysis, data architecture and full-stack development
-📍 Brazil
+👨‍💻 Heitor Silva;
+🎓 Studying Multiplatform Software Development (DSM) at FATEC;
+💼 IT Intern — working with back-end, data and web applications;
+💡 Focused on systems analysis, data architecture and full-stack development;
+📍 Brazil;
 
 🛠️ Tech Stack
 ⚡ Main stack
