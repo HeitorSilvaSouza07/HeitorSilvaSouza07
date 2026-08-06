@@ -11,7 +11,7 @@
 </p>
 🔧 Tools & other knowledge
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,figma,vscode, swagger" />
 </p>
 
 📂 About this profile
