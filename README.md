@@ -1,45 +1,45 @@
 # 👨‍💻 Heitor Silva
 
-🎓 **Software Development Student (DSM)** at FATEC  
-💼 **IT Intern** focused on back-end development, data, and web applications  
-💡 Passionate about software architecture, systems analysis, and building scalable solutions  
-📍 Brazil 🇧🇷
+🎓 **Estudante de Desenvolvimento de Software Multiplataforma (DSM)** na FATEC  
+💼 **Estagiário de TI** com foco em desenvolvimento back-end, dados e aplicações web  
+💡 Apaixonado por arquitetura de software, análise de sistemas e desenvolvimento de soluções escaláveis  
+📍 Brasil 🇧🇷
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
-### ⚡ Main Technologies
+### ⚡ Stack Principal
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mysql,postgresql,python,fastapi" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Ferramentas e Outras Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,redis,postman,figma,vscode" />
 </p>
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-I'm passionate about building scalable, maintainable, and high-performance software. I enjoy turning ideas into real products while continuously learning new technologies and software engineering best practices.
+Sou apaixonado por desenvolver software e transformar ideias em soluções reais. Busco escrever código limpo, escalável e de fácil manutenção, sempre aplicando boas práticas de engenharia de software.
 
-My main interests include:
+Tenho interesse principalmente em:
 
-- ⚙️ Back-end Development
-- 🌐 Full-Stack Web Development
-- 🏛️ Software Architecture
-- 🗄️ Database Design
-- 🔌 REST APIs
+- ⚙️ Desenvolvimento Back-end
+- 🌐 Desenvolvimento Full Stack
+- 🏛️ Arquitetura de Software
+- 🗄️ Modelagem e Banco de Dados
+- 🔌 Desenvolvimento de APIs REST
 - 🚀 System Design
-- ☁️ Cloud & DevOps
+- ☁️ Cloud e DevOps
 
-## 📂 About This Profile
+## 📂 Sobre este Perfil
 
-Here you'll find:
+Aqui você encontrará:
 
-- 📚 Study repositories
-- 🎓 Academic projects
-- 💻 Personal projects
-- 🧪 Experiments with new technologies
+- 📚 Repositórios de estudos
+- 🎓 Projetos acadêmicos
+- 💻 Projetos pessoais
+- 🧪 Experimentos com novas tecnologias
 
-I'm always learning, building, and open to feedback and collaboration. 🤝
+Estou sempre em busca de aprender, criar novos projetos e evoluir como desenvolvedor. Feedbacks e colaborações são sempre bem-vindos! 🤝
