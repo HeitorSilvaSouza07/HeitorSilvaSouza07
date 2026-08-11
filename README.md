@@ -1,45 +1,66 @@
-# 👨‍💻 Heitor Silva
+<div align="center">
+  <h1>Olá, eu sou Heitor Silva! 👋</h1>
+  <p>
+    <strong>Desenvolvedor em formação focado em back-end, dados e aplicações web.</strong>
+  </p>
+  <p>
+    Estudante de Desenvolvimento de Software Multiplataforma na FATEC · Estagiário de TI · Brasil 🇧🇷
+  </p>
+  <p>
+    <a href="https://github.com/HeitorSilvaSouza07">
+      <img src="https://img.shields.io/badge/GitHub-HeitorSilvaSouza07-181717?style=for-the-badge&logo=github" alt="GitHub de Heitor Silva" />
+    </a>
+  </p>
+</div>
 
-🎓 **Estudante de Desenvolvimento de Software Multiplataforma (DSM)** na FATEC  
-💼 **Estagiário de TI** com foco em desenvolvimento back-end, dados e aplicações web  
-💡 Apaixonado por arquitetura de software, análise de sistemas e desenvolvimento de soluções escaláveis  
-📍 Brasil 🇧🇷
+## Sobre mim
 
-## 🛠️ Tecnologias
+Gosto de transformar ideias em soluções úteis, com atenção a código limpo, organização e manutenção. Tenho especial interesse em arquitetura de software, APIs, modelagem de dados e sistemas escaláveis.
 
-### ⚡ Stack Principal
+- 🔭 Desenvolvendo projetos para fortalecer minha experiência prática em software.
+- 🌱 Aprofundando conhecimentos em back-end, banco de dados, cloud e DevOps.
+- 🤝 Aberto a aprender, colaborar e trocar experiências.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mysql,postgresql,python,fastapi" />
-</p>
+## Tecnologias
 
-### 🔧 Ferramentas e Outras Tecnologias
+<div align="center">
+  <p><strong>Back-end e dados</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,mysql,postgresql,redis" alt="Node.js, Express, NestJS, Python, FastAPI, MySQL, PostgreSQL e Redis" />
+  <br />
+  <br />
+  <p><strong>Front-end e ferramentas</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,git,github,docker,postman,figma,vscode" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Git, GitHub, Docker, Postman, Figma e VS Code" />
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,redis,postman,figma,vscode" />
-</p>
+## Projetos em destaque
 
-## 🚀 Sobre Mim
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/HeitorSilvaSouza07/crud_fastapi">CRUD com FastAPI</a></h3>
+      <p align="center">Projeto de estudo para praticar a criação de APIs com FastAPI e consolidar fundamentos de back-end.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/HeitorSilvaSouza07/sistema-biblioteca-poo">Sistema de Biblioteca</a></h3>
+      <p align="center">Sistema de biblioteca desenvolvido em Python para praticar conceitos de programação orientada a objetos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/POO-4B8BBE?style=flat-square" alt="Programação orientada a objetos" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-Sou apaixonado por desenvolver software e transformar ideias em soluções reais. Busco escrever código limpo, escalável e de fácil manutenção, sempre aplicando boas práticas de engenharia de software.
+## Áreas de interesse
 
-Tenho interesse principalmente em:
+`Desenvolvimento Back-end` · `APIs REST` · `Arquitetura de Software` · `Modelagem de Dados` · `System Design` · `Cloud e DevOps`
 
-- ⚙️ Desenvolvimento Back-end
-- 🌐 Desenvolvimento Full Stack
-- 🏛️ Arquitetura de Software
-- 🗄️ Modelagem e Banco de Dados
-- 🔌 Desenvolvimento de APIs REST
-- 🚀 System Design
-- ☁️ Cloud e DevOps
+---
 
-## 📂 Sobre este Perfil
-
-Aqui você encontrará:
-
-- 📚 Repositórios de estudos
-- 🎓 Projetos acadêmicos
-- 💻 Projetos pessoais
-- 🧪 Experimentos com novas tecnologias
-
-Estou sempre em busca de aprender, criar novos projetos e evoluir como desenvolvedor. Feedbacks e colaborações são sempre bem-vindos! 🤝
+<div align="center">
+  <p>Vamos construir algo interessante? Confira meus repositórios ou entre em contato por aqui. 🚀</p>
+</div>
