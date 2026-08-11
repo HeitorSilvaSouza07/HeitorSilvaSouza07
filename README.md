@@ -46,20 +46,20 @@ Gosto de transformar ideias em soluções úteis, com atenção a código limpo,
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HeitorSilvaSouza07/pro_siga">ProSiga</a></h3>
-      <p align="center">Sistema de gerenciamento escolar com operações CRUD, persistência em PostgreSQL e interface responsiva.</p>
+      <p align="center">Sistema de gerenciamento escolar com operações CRUD, persistência em SQL Server e interface responsiva.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HeitorSilvaSouza07/sistema_de_login">Sistema de Login</a></h3>
-      <p align="center">Base de autenticação para cadastro, login e proteção de áreas restritas de aplicações.</p>
+      <p align="center">Base de autenticação para cadastro, login, proteção de áreas restritas e persistência em SQL Server.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Autenticação-1F6FEB?style=flat-square" alt="Autenticação" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
     </td>
     <td width="50%" valign="top">
