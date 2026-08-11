@@ -37,10 +37,11 @@ Gosto de transformar ideias em soluções úteis, com atenção a código limpo,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/HeitorSilvaSouza07/tccEtec2025">Barbearage</a></h3>
-      <p align="center">Projeto desenvolvido para aplicar conhecimentos de desenvolvimento de software em uma solução prática.</p>
+      <h3 align="center"><a href="https://github.com/HeitorSilvaSouza07/tccEtec2025">Barberage</a></h3>
+      <p align="center">SaaS para gestão de barbearias, desenvolvido com Python e PostgreSQL.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Projeto%20acadêmico-1F6FEB?style=flat-square" alt="Projeto acadêmico" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
