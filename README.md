@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Gosto de transformar ideias em soluções úteis, com atenção a código limpo, organização e manutenção. Tenho especial interesse em arquitetura de software, APIs, modelagem de dados e sistemas escaláveis.
+Tenho especial interesse em arquitetura de software, APIs, modelagem de dados e sistemas escaláveis.
 
 - 🔭 Desenvolvendo projetos para fortalecer minha experiência prática em software.
 - 🌱 Aprofundando conhecimentos em back-end, banco de dados, cloud e DevOps.
