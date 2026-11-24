@@ -24,8 +24,8 @@ Tenho especial interesse em arquitetura de software, APIs, modelagem de dados e 
 ## Tecnologias
 
 <div align="center">
-  <p><strong>Back-end e dados</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,mysql,postgresql,redis" alt="Node.js, Express, NestJS, Python, FastAPI, MySQL, PostgreSQL e Redis" />
+  <p><strong>Back-end e Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,mysql,postgresql,redis" alt="Node.js, Express, NestJS, Python, FastAPI, MySQL, PostgreSQL, Dart, Flutter e Redis" />
   <br />
   <br />
   <p><strong>Front-end e ferramentas</strong></p>
